@@ -157,13 +157,6 @@ The Product Analytics dashboard evaluates product categories, sub-categories, pr
 
 ---
 
-## Data Quality
-
-The Data Quality dashboard summarizes data validation results, ensuring the dataset is complete, consistent, and ready for business analysis.
-
-<p align="center">
-  <img src="dashboard/data-quality.png" width="900">
-</p>
 
 Provides an overall summary of business performance through key performance indicators and sales trends.
 
