@@ -124,7 +124,46 @@ Retail-Sales-Analytics/
 
 # Dashboard Pages
 
-### Executive Overview
+
+# Dashboard Preview
+
+## Executive Overview
+
+The Executive Overview provides a high-level summary of business performance through key performance indicators, sales trends, regional performance, and customer contribution.
+
+<p align="center">
+  <img src="dashboard/executive-overview.png" width="900">
+</p>
+
+---
+
+## Customer Analytics
+
+The Customer Analytics dashboard helps analyze customer purchasing behavior, identify top-performing customers, and evaluate customer contribution across regions.
+
+<p align="center">
+  <img src="dashboard/customer-analytics.png" width="900">
+</p>
+
+---
+
+## Product Analytics
+
+The Product Analytics dashboard evaluates product categories, sub-categories, profitability, and sales performance to identify top-performing and underperforming products.
+
+<p align="center">
+  <img src="dashboard/product-analytics.png" width="900">
+</p>
+
+---
+
+## Data Quality
+
+The Data Quality dashboard summarizes data validation results, ensuring the dataset is complete, consistent, and ready for business analysis.
+
+<p align="center">
+  <img src="dashboard/data-quality.png" width="900">
+</p>
 
 Provides an overall summary of business performance through key performance indicators and sales trends.
 
